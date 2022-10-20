@@ -1,7 +1,7 @@
 {
-  "name": "Hello, World!",
+  "name": "Jira story point calculator",
   "version": "1.0",
-  "manifest_version": 3,
+  "manifest_version": 1,
   "background": {
     "service_worker": "background.js"
   },
